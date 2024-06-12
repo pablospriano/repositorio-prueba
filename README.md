@@ -1,2 +1,1 @@
-# repositorio-prueba
-repo 1
+esto es un repositorio de prueba 1 
